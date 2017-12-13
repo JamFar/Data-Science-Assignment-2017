@@ -1,5 +1,5 @@
 # Data-Science-Assignment-2017
-This repository will hold any raw data extracted from Donald Trump's public Twitter account information.
+This repository holds any raw data extracted from Donald Trump's public Twitter account information.
 
 Should you wish to extract the data from these text files:
 
@@ -13,3 +13,5 @@ Querying can be done as follows:
 1. dictionary["data"][<put_index_here>][<put_search_tag_here>]
 
 e.g. trump_friends["data"][0]["location"] will give you Sarah Sander's location in Washington DC, since she's the first entry.
+
+Note: dictionary lookups may be structured differently depending on the extracted data.
